@@ -4,74 +4,81 @@ body{
 
 h1.titre{
 	background-color: skyblue;
-	margin-left: 40%;
-	margin-right: 50%;
+	font-size: 40spx;
+	margin-left: 500px;
+	margin-right: 900px;
 }
 
 h4.text_1{
 	background-color: black;
+	font-size: 20px;
 	color: skyblue;
 }
 
 div.ADS_1{
 	background-color: black;
-	margin-top: 30%;
-	height: 450px;
-	margin-left: 5%;
-	margin-right: 5%;
+	margin-top: 5px;
+	height: 740px;
+	margin-left: 5px;
+	margin-right: 5px;
+	width: 190;
 }
 
 h4.TEXT_PUB_1{
 	color: whitesmoke;
 	float: left;
-	margin-top: 40%;
-	margin-left: 48%;
+	margin-top: 40px;
+	margin-left: 48px;
 }
 
 div.boite_1{
 	background-color: whitesmoke;
-	height: 700px;
-	margin-left: 2%;
-	margin-right: 1.5%;
-	margin-top: 3%;
+	height: 750px;
+	margin-left: 20px;
+	margin-right: 1.5px;
+	margin-top: 3px;
 	float: left;
-	width: 30%;
+	width: 200px;
 }
 
 h1.titre_2{
 	color: pink;
-	margin-left: 23%;
+	margin-left: 23px;
 	float: left;
+	font-size: 15px;
 }
 
 div.boite_2{
 	background-color: red;
-	height: 700px;
-	margin-left: 1%;
-	margin-right: 1.5%;
-	margin-top: 3%;
+	height: 750px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-top: 3px;
 	float: left;
-	width: 30%;
+	width: 1355px;
 }
 
 h1.titre_3{
-	color: fuchsia;
-	margin-left: 23%;
+	color: white;
+	font-size: 40px;
+	margin-left: 400px;
+	margin-right: 525px;
 	float: left;
 }
 
 div.boite_3{
 	background-color: orange;
-	height: 700px;
-	margin-left: 1%;
-	margin-right: 2%;
-	margin-top: 3%;
-	float: left;
-	width: 30%;
+	height: 750px;
+	margin-left: 1px;
+	margin-right: 20px;
+	margin-top: 3px;
+	float: right;
+	width: 200px;
 }
 
 h1.titre_4{
 	color: green;
-	margin-left: 23%;
+	font-size: 15px;
+	margin-left: 23px;
 	float: left;
 }
